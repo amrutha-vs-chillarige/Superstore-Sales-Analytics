@@ -29,7 +29,7 @@ Superstore-Sales-Analytics/
 
 ---
 
-## 🗄 SQL Analysis
+##  SQL Analysis
 
 ### **1. Data Cleaning (`data_cleaning.sql`)**
 - Removed duplicates  
@@ -100,7 +100,7 @@ The final dashboard contains **four professional pages**:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - **SQL (MySQL Workbench)** — cleaning, RFM, aggregations  
 - **Power BI** — dashboarding & visual analysis  
 - **Excel** — quick data validation  
@@ -115,5 +115,6 @@ The final dashboard contains **four professional pages**:
 ---
 
 ##  If you found this useful, consider giving the repo a star!
+
 
 
