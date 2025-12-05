@@ -1,7 +1,7 @@
-# 📊 Superstore Sales Analytics — Power BI & SQL  
+# Superstore Sales Analytics — Power BI & SQL  
 ### Data Cleaning • Profitability Insights • Customer Segmentation (RFM) • Interactive Dashboard
 
-![cover](assets/cover.png)
+
 
 ## 🚀 Project Overview  
 This is an **end-to-end data analytics project** using **SQL + Power BI** to analyze sales, profit, and customer behavior using the Superstore dataset.  
@@ -24,7 +24,6 @@ Superstore-Sales-Analytics/
 ├── data/                     # Cleaned & exported datasets
 ├── sql_queries/              # SQL scripts used for processing
 ├── powerbi_dashboard/        # PBIX + dashboard screenshots
-├── assets/                   # Images/icons for documentation
 └── README.md                 # Project documentation
 ```
 
@@ -111,9 +110,9 @@ The final dashboard contains **four professional pages**:
 
 ## 🧑‍💻 Author  
 **Amrutha Venkata Sai Chillarige**  
-Data Analyst | Power BI | SQL | Python  
-🔗 LinkedIn: *add your link*
+🔗 LinkedIn: *www.linkedin.com/in/amrutha-vs-chillarige*
 
 ---
 
 ## ⭐ If you found this useful, consider giving the repo a star!
+
