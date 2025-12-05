@@ -3,7 +3,7 @@
 
 
 
-## 🚀 Project Overview  
+##  Project Overview  
 This is an **end-to-end data analytics project** using **SQL + Power BI** to analyze sales, profit, and customer behavior using the Superstore dataset.  
 It includes:
 
@@ -16,7 +16,7 @@ It includes:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Superstore-Sales-Analytics/
@@ -53,26 +53,26 @@ Superstore-Sales-Analytics/
 
 ---
 
-## 📊 Power BI Dashboard  
+##  Power BI Dashboard  
 The final dashboard contains **four professional pages**:
 
-### **📍 1. Executive Overview**
+### ** 1. Executive Overview**
 - Total Sales, Profit, Customers, Avg Monetary  
 - Sales by State (donut chart)  
 - Sales vs Profit combo chart  
 
-### **📍 2. Sales & Profit Trends**
+### ** 2. Sales & Profit Trends**
 - Monthly Sales Trend (2014–2017)  
 - Monthly Profit Margin (%)  
 - Seasonal + volatility insights  
 
-### **📍 3. Product Performance**
+### ** 3. Product Performance**
 - Top 10 profitable products  
 - Profit by Category  
 - Sales by Sub-Category  
 - Product insights  
 
-### **📍 4. Customer Segmentation (RFM)**
+### ** 4. Customer Segmentation (RFM)**
 - Customer segment distribution  
 - RFM scatter plot  
 - Avg Recency, Frequency, Monetary, RFM score  
@@ -80,7 +80,7 @@ The final dashboard contains **four professional pages**:
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 ### **Sales & Profit**
 - Seasonal spikes in November–December  
@@ -108,11 +108,12 @@ The final dashboard contains **four professional pages**:
 
 ---
 
-## 🧑‍💻 Author  
+##  Author  
 **Amrutha Venkata Sai Chillarige**  
 🔗 LinkedIn: *www.linkedin.com/in/amrutha-vs-chillarige*
 
 ---
 
-## ⭐ If you found this useful, consider giving the repo a star!
+##  If you found this useful, consider giving the repo a star!
+
 
